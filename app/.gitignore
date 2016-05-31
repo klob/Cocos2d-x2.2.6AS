@@ -1,2 +1,7 @@
 /build
 /jniLibs
+*.so
+*.a
+*.d
+*.o
+/obj

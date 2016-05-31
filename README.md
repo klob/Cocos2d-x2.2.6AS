@@ -1,0 +1,1 @@
+Android Studio + Cocos2d-x 2.2.6
